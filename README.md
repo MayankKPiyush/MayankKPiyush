@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Mayank Kumar Piyush! 👋
 
-<!--
-**MayankKPiyush/MayankKPiyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer who loves building projects and exploring new technologies. I enjoy tackling challenges and constantly learning.
 
-Here are some ideas to get you started:
+## Skills
+- Frontend Development: HTML, CSS, JavaScript, React
+- Backend Development: Node.js, Express.js
+- Database: MongoDB, MySQL
+- Other: Git, RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Project 1**: Description of Project 1
+  ![Project 1](path/to/project1-screenshot.png)
+  
+- **Project 2**: Description of Project 2
+  ![Project 2](path/to/project2-screenshot.png)
+
+## Contact Me
+- LinkedIn: [Mayank Kumar Piyush](https://www.linkedin.com/in/mayankkumarpiyush/)
+- Email: your.email@example.com
+- Portfolio: [mayankpiyush.com](https://www.mayankpiyush.com)
+
+Feel free to reach out to me to discuss collaboration or just to say hi!
